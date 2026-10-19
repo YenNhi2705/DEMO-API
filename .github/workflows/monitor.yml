@@ -22,4 +22,4 @@ jobs:
 
       - name: Chạy kịch bản Monitor trực tiếp từ Cloud
         run: |
-          postman collection run "Production_Monitor_Demo"
+          postman collection run "59052011-a875b9ed-c34b-4303-b96e-1d0683ba1c64"
